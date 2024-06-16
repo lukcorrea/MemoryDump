@@ -1,0 +1,14 @@
+C:\Users\LukeCreater\source\repos\MemoryDump\MemoryDump\bin\Debug\MemoryDump.exe.config
+C:\Users\LukeCreater\source\repos\MemoryDump\MemoryDump\bin\Debug\MemoryDump.exe
+C:\Users\LukeCreater\source\repos\MemoryDump\MemoryDump\bin\Debug\MemoryDump.pdb
+C:\Users\LukeCreater\source\repos\MemoryDump\MemoryDump\obj\Debug\MemoryDump.csproj.AssemblyReference.cache
+C:\Users\LukeCreater\source\repos\MemoryDump\MemoryDump\obj\Debug\MemoryDump.csproj.CoreCompileInputs.cache
+C:\Users\LukeCreater\source\repos\MemoryDump\MemoryDump\obj\Debug\MemoryDump.exe
+C:\Users\LukeCreater\source\repos\MemoryDump\MemoryDump\obj\Debug\MemoryDump.pdb
+C:\Users\Lucas Corrêa\source\repos\MemoryDump\MemoryDump\obj\Debug\MemoryDump.csproj.AssemblyReference.cache
+C:\Users\Lucas Corrêa\source\repos\MemoryDump\MemoryDump\obj\Debug\MemoryDump.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Corrêa\source\repos\MemoryDump\MemoryDump\obj\Debug\MemoryDump.exe
+C:\Users\Lucas Corrêa\source\repos\MemoryDump\MemoryDump\obj\Debug\MemoryDump.pdb
+C:\Users\Lucas Corrêa\source\repos\MemoryDump\MemoryDump\bin\Debug\MemoryDump.exe.config
+C:\Users\Lucas Corrêa\source\repos\MemoryDump\MemoryDump\bin\Debug\MemoryDump.exe
+C:\Users\Lucas Corrêa\source\repos\MemoryDump\MemoryDump\bin\Debug\MemoryDump.pdb
